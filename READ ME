@@ -1,0 +1,4 @@
+create database named "temperature_db"
+add attributes id, ts, temp as entity names.
+
+configure your mysql passwords on connect.php file
