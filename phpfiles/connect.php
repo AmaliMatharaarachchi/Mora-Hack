@@ -3,7 +3,7 @@
 	function Connection(){
 		$server="localhost";
 		$user="root";
-		$pass="Charith";
+		$pass=" ";
 		$db="temperature_db";
 
 		$connection = new mysqli($server, $user, $pass,$db);
